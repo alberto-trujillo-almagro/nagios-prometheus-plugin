@@ -1,0 +1,1 @@
+COPY openshift.sh file into "/usr/local/nagios/libexec/" of REMOTE NRPE HOST
